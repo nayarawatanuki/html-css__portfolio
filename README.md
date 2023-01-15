@@ -56,7 +56,7 @@ Após baixar o projeto, você pode abrir com o VS Code. Para isso, abra o explor
 </br>
 
 ## :rocket: Abrir e rodar o projeto
-Caso tenha interesse em visualizar o que foi realizado: [Alurinha](https://nayarawatanuki.github.io/html-css__portfolio-part1/) 
+Caso tenha interesse em visualizar o que foi realizado: [Portfolio](https://nayarawatanuki.github.io/html-css__portfolio-part1/) 
 
 Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/html-css__portfolio-part1/archive/refs/heads/main.zip).
 
