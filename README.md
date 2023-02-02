@@ -17,7 +17,7 @@
 ## :pencil: Descrição do Projeto
 O projeto **[Portfolio](https://nayarawatanuki.github.io/html-css__portfolio-part1/)**, é uma proposta de página web para apresentação comercial.
 
-</br>Desenvolvido para o curso de **HTML E CSS: AMBIENTE, ARQUIVOS E TAGS** da platforma [Alura](https://www.alura.com.br/).
+</br>Desenvolvido para o curso de **HTML E CSS: AMBIENTE, ARQUIVOS E TAGS** da plataforma [Alura](https://www.alura.com.br/).
 
 </br>
 
